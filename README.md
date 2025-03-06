@@ -16,6 +16,6 @@ I write,, sing and code.
 ## Tools Languages and Frameworks:
 
 ![C
-Logo](https://img.icons8.com/color/24/000000/c-programming.png) ![C++ Logo](https://img.icons8.com/color/24/000000/c-plus-plus-logo.png) ![Python Logo](https://img.icons8.com/color/24/000000/python.png)![HTMLLogo](https://img.icons8.com/color/24/000000/html-5.png)![CSSLogo](https://img.icons8.com/color/24/000000/css3.png)![VSCodeLogo](https://img.icons8.com/color/24/000000/visual-studio-code-2019.png)
+Logo](https://img.icons8.com/color/24/000000/c-programming.png) ![C++ Logo](https://img.icons8.com/color/24/000000/c-plus-plus-logo.png) ![Python Logo](https://img.icons8.com/color/24/000000/python.png)![HTMLLogo](https://img.icons8.com/color/24/000000/html-5.png)![CSSLogo](https://img.icons8.com/color/24/000000/css3.png)![JavaScript Logo](https://img.icons8.com/color/24/000000/javascript.png)![MySQL Logo](https://img.icons8.com/color/24/000000/mysql-logo.png) ![VSCodeLogo](https://img.icons8.com/color/24/000000/visual-studio-code-2019.png)
 
 Feel free to connect and collaborate! 🚀
